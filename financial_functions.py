@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Mar  6 16:44:46 2023
-
-@author: Dell
-"""
-
 from math import log as ln
 
 def present_amount(P, r, n):
